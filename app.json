@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sagas",
+    "slug": "sagas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sagas"
+}
